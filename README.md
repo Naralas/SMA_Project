@@ -8,9 +8,19 @@ MCS 2020<br />
 
 ### Fetching the Dataset
 
-First of all, you need to download the dataset at this [address](https://snap.stanford.edu/data/ego-Twitter.html). You only need the `twitter_combined.txt.gz` file.
+First of all, you need to download the dataset at this [address](https://snap.stanford.edu/data/ego-Twitter.html). You need both the `twitter_combined.txt.gz` and `twitter.tar.gz` files.
 
-Extract the txt file, for example using 7zip, into the /data folder of the project.
+`twitter_combined.txt.gz`
+Extract the `twitter_combined.txt.gz`, for example using 7zip, into the /data folder of the project.
+Extract the `twitter.tar.gz` into a subfolder twitter/ in the /data folder.
+
+This should give you the following file structure :
+
+`data/twitter_combined.txt`
+`data/twitter/NODEID.egofeat`
+`data/twitter/NODEID.circles`
+
+etc.
 
 ### Installing the required python modules
 
