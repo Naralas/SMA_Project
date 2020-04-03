@@ -8,7 +8,7 @@ MCS 2020
 
 ### Fetching the Dataset
 
-First of all, you need to download the dataset at this [address](https://snap.stanford.edu/data/ego-Twitter.html). You only need the "twitter_combined.txt.gz" file.
+First of all, you need to download the dataset at this [address](https://snap.stanford.edu/data/ego-Twitter.html). You only need the `twitter_combined.txt.gz` file.
 
 Extract the txt file, for example using 7zip, into the /data folder of the project.
 
