@@ -15,10 +15,9 @@ Extract the `twitter_combined.txt.gz`, for example using 7zip, into the /data fo
 Extract the `twitter.tar.gz` into a subfolder twitter/ in the /data folder.
 
 This should give you the following file structure :
-
-`data/twitter_combined.txt`
-`data/twitter/NODEID.egofeat`
-`data/twitter/NODEID.circles`
+- `/data/twitter_combined.txt`
+- `/data/twitter/NODEID.egofeat`
+- `/data/twitter/NODEID.circles`
 
 etc.
 
