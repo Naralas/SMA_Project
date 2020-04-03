@@ -1,8 +1,8 @@
 # Social Media Analytics Course Project, Detection of communities in a Twitter Network
 
-Herbelin Ludovic
-Goloviatinski Sergiy
-MCS 2020
+Herbelin Ludovic<br />
+Goloviatinski Sergiy<br />
+MCS 2020<br />
 
 ## Setup
 
